@@ -1,0 +1,3 @@
+Mutations
+Mutations are used to change our data in some fashion.
+Mutations can be used to delete records update them or even create new records.
